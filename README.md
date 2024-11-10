@@ -48,36 +48,36 @@ We implemented three variants:
 ### Training Visualizations
 
 #### DC-GAN Results
-![Training Progress](images/training_pool.png)
+![Training Progress](images/1.png)
 *Fig 1: Training Pool Images*
 
-![DC-GAN Loss](images/dcgan_loss.png)
+![DC-GAN Loss](images/2.png)
 *Fig 2: DC-GAN Discriminator and Generator Loss*
 
-![DC-GAN Samples](images/dcgan_samples.png)
+![DC-GAN Samples](images/3.png)
 *Fig 3: Real vs Generated Images using DC-GAN*
 
-![DC-GAN FID](images/dcgan_fid.png)
+![DC-GAN FID](images/5.png)
 *Fig 4: FID Score vs Epochs for DC-GAN*
 
 #### WGAN Results
-![WGAN Loss](images/wgan_loss.png)
+![WGAN Loss](images/9.png)
 *Fig 5: WGAN Discriminator and Generator Loss*
 
-![WGAN Samples](images/wgan_samples.png)
+![WGAN Samples](images/10.png)
 *Fig 6: Real vs Generated Images using WGAN*
 
-![WGAN FID](images/wgan_fid.png)
+![WGAN FID](images/11.png)
 *Fig 7: FID Score vs Epochs for WGAN*
 
 #### Conditional GAN Results
-![CGAN Loss](images/cgan_loss.png)
+![CGAN Loss](images/13.png)
 *Fig 8: Conditional GAN Discriminator and Generator Loss*
 
-![CGAN Samples](images/cgan_samples.png)
+![CGAN Samples](images/14.png)
 *Fig 9: Real vs Generated Images using Conditional GAN*
 
-![CGAN FID](images/cgan_fid.png)
+![CGAN FID](images/15.png)
 *Fig 10: FID Score vs Epochs for Conditional GAN*
 
 ### FID Scores Comparison
